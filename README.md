@@ -144,7 +144,7 @@ The project successfully delivers:
 * Presentation summarizing key findings and recommendations.
 
 ---
-# 📂 Project Structure
+# Project Structure
 
 ```text
 Vendor-Performance-Analysis/
