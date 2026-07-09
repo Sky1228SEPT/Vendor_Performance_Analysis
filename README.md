@@ -12,7 +12,7 @@ An end-to-end data analytics project that evaluates vendor performance using **P
 * [Project Workflow](#project-workflow)
 * [Dashboard](#dashboard)
 * [Results](#results)
-* [Project Structure](#how-to-run)
+- [Project Structure](#project-structure)
 
 ---
 
@@ -144,32 +144,36 @@ The project successfully delivers:
 * Presentation summarizing key findings and recommendations.
 
 ---
+# 📂 Project Structure
 
-# Project Structure
-
+```text
 Vendor-Performance-Analysis/
 │
-├── Dataset/
-│   └── vendor_Sales_Summary.csv
+├── 📁 Dataset/
+│   └── Vendor_Sales_Summary.csv
 │
-├── Python/
+├── 📁 Python/
 │   ├── Vendar_Performance.ipynb
-│   ├── Get_Vendor_Summary.ipynb
-│   └── Vendor Performance Analysis.ipynb
+│   ├── Get_Vendor_SummaryEDA.ipynb
+│   └── Vendor_Performance_Analysis.ipynb
 │
-├── MySQL/
-│   └── vendor_analysis.sql
+├── 📁 MySQL/
+│   └── Vendor_Performance_Analysis.sql
 │
-├── PowerBI/
+├── 📁 PowerBI/
 │   └── Vendor_Performance_Analysis.pbix
 │
-├── Report/
+├── 📁 Report/
 │   └── Vendor_Performance_Analysis.pdf
 │
-├── Presentation/
+├── 📁 Presentation/
 │   └── Vendor_Performance_Analysis.pdf
 │
 └── README.md
+```
+
+This folder structure keeps the project organized by separating datasets, Python notebooks, SQL scripts, Power BI files, reports, presentations, and dashboard images, making the repository easy to navigate and maintain.
+
 
 ---
 
