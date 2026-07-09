@@ -12,7 +12,7 @@ An end-to-end data analytics project that evaluates vendor performance using **P
 * [Project Workflow](#project-workflow)
 * [Dashboard](#dashboard)
 * [Results](#results)
-- [Project Structure](#project-structure)
+* [Project Structure](#project-structure)
 
 ---
 
